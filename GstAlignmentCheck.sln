@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GstAlignmentCheck", "GstAlignmentCheck.csproj", "{ED8F0340-A484-A880-6C5F-8684075E345F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED8F0340-A484-A880-6C5F-8684075E345F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED8F0340-A484-A880-6C5F-8684075E345F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED8F0340-A484-A880-6C5F-8684075E345F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED8F0340-A484-A880-6C5F-8684075E345F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94D2832F-443B-44AD-B70F-CA2DDF34B928}
+	EndGlobalSection
+EndGlobal
